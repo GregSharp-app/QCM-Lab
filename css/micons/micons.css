@@ -507,6 +507,9 @@
 .icon-question:before {
     content: "\e9a0";
 }
+.icon-qrcode:before {
+    content: "\f029";
+}
 .icon-quote:before {
     content: "\e9a1";
 }
