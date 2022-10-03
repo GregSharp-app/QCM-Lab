@@ -24,7 +24,7 @@
     * -------------------------------------------------- */
     var ssPreloader = function() {
         
-        $("html").addClass('ss-preload');
+        
 
         $WIN.on('load', function() {
 
